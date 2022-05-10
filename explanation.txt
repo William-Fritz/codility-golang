@@ -1,0 +1,8 @@
+git status
+show current branch
+show list of changes
+
+branch
+git checkout -b kerjaan-tyo
+
+git branch
